@@ -1,0 +1,14 @@
+#Small Node.js api
+### This is a small node.js api that is able to create user and login if the user does exists.
+### So I have used  PostgreSQL as my database, Sequelize to create models and to connect to our express server, 
+bcryptjs to hash passwords.
+
+
+#Technologies used.
+
+*Node.js  —  For writng Javasctipt server-side applications
+*Express.js  —  For server.
+*PostgreSQL — An open source object-relational database
+*Sequelize — An ORM(Object Relational Mapping) of PostreSQL 
+*Bcryptjs  —  For password hashing
+*Body-parser  —  For getting user imports
